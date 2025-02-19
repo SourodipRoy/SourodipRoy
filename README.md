@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Echo Msg](https://echomsg.onrender.com/)
 
-- 🌱 I’m currently learning **Python, React.js, C++ and Figma**
+- 🌱 I’m currently learning **Python, Javascript, Typescript, React.js, C++, Java and Figma**
 
 - 🤝 I’m looking for help with **Cloud Lancer**
 
