@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sourodip Roy</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from India</h3>
 
-- 🔭 I’m currently working on [SyncIt-io](https://syncit-io.onrender.com/) and [ShadowConnect](https://shadowconnect.onrender.com/) and [Echo Msg](https://echomsg.onrender.com/)
+- 🔭 I’m currently working on [SyncIt-io](https://syncit-io.onrender.com/), [ShadowConnect](https://shadowconnect.onrender.com/) and [Echo Msg](https://echomsg.onrender.com/)
 
 - 🌱 I’m currently learning **Python, Javascript, Typescript, React.js, C++, Java and Figma**
 
